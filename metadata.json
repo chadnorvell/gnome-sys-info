@@ -1,0 +1,10 @@
+{
+  "name": "System Information",
+  "description": "Show CPU and memory use",
+  "uuid": "sys_info@chadnorvell.github.io",
+  "shell-version": [
+    "3.36"
+  ],
+  "version": 1,
+  "url": "https://github.com/chadnorvell/gnome_sys_info"
+}
